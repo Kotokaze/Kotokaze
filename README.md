@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kotokaze</h1>
 
 <div align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy$rank=SSS,SS,S,AAA,AA,A,B">
+  <a href="https://github.com/ryo-ma/github-profile-trophy&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
     <img src="https://github-profile-trophy.vercel.app/?username=kotokaze" alt="kotokaze" />
   </a> 
 </div>
