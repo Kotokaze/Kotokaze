@@ -13,10 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [kotokaze.net](https://www.kotokaze.net/)
 
-<h3>Recent Posts:</h3>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 <div align="left">
