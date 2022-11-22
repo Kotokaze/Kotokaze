@@ -9,7 +9,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kotokaze&theme=dracula&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning **"Robot Controlling"** / **"Security"** / **"Application"**
+- 🌱 I’m currently learning **"Robot Controlling"** / **"Security"** / **"Networks"** / **"Application"**
 
 - 👨‍💻 All of my projects are available at [kotokaze.net](https://www.kotokaze.net/)
 
@@ -153,9 +153,9 @@
 <div align="left">
   <h3>Statistics:</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotokaze&theme=dracula&layout=compact&langs_count=6" alt="kotokaze" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotokaze&theme=dracula&layout=compact&langs_count=6&count_private=true" alt="kotokaze" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/?username=kotokaze&show_icons=true&theme=dracula&include_all_commits=true" alt="kotokaze" />
+    <img src="https://github-readme-stats.vercel.app/api/?username=kotokaze&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="kotokaze" />
   </a>
 </div>
